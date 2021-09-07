@@ -1,0 +1,18 @@
+
+
+.image{
+    width: 420px;
+}
+.card{
+    display: flex;
+    flex-direction:column;
+    width: 420px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.img__btn{
+    color: black;
+    background-color: blanchedalmond;
+    
+}
